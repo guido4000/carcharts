@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on CarCharts.ch | Auto-Wertverlust Infoportal</title>
-    <link>/tags/</link>
+    <link>https://www.carcharts.ch/tags/</link>
     <description>Recent content in Tags on CarCharts.ch | Auto-Wertverlust Infoportal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>Copyright 2017, Consultingcentral GmbH</copyright>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.carcharts.ch/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CarCharts.ch | Auto-Wertverlust Infoportal</title>
-    <link>/</link>
+    <link>https://www.carcharts.ch/</link>
     <description>Recent content on CarCharts.ch | Auto-Wertverlust Infoportal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>Copyright 2017, Consultingcentral GmbH</copyright>
     <lastBuildDate>Fri, 26 May 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.carcharts.ch/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Impressum</title>
-      <link>/impressum/</link>
+      <link>https://www.carcharts.ch/impressum/</link>
       <pubDate>Fri, 26 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/impressum/</guid>
+      <guid>https://www.carcharts.ch/impressum/</guid>
       <description>Kontaktadresse Consultingcentral GmbH
 High-Tech-Center 1
 8724 Tägerwilen
@@ -33,10 +33,10 @@ Haftungsansprüche gegen den Autor wegen Schäden materieller oder immaterieller
     
     <item>
       <title>Informationen</title>
-      <link>/informationen/</link>
+      <link>https://www.carcharts.ch/informationen/</link>
       <pubDate>Fri, 26 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/informationen/</guid>
+      <guid>https://www.carcharts.ch/informationen/</guid>
       <description>CarCharts.ch ist ein Produkt der Consultingcentral GmbH. Wir haben es uns zum Ziel gesetzt, den Autokäufern in der Schweiz die benötigten Informationen zur Verfügung zu stellen, um dem Faktor Wertverlust bei einem Autokauf optimal einschätzen zu können.
 Die Zahlen basieren auf dem aktuellen Gebrauchtwagenangebot in der Schweiz, sind jedoch ohne Gewähr zu benutzen.
 Falls Sie Interesse an weiteren Auswertungen haben oder sonstigen Anregungen zum Thema haben, nehmen Sie gerne Kontakt mit uns auf.</description>
@@ -44,40 +44,40 @@ Falls Sie Interesse an weiteren Auswertungen haben oder sonstigen Anregungen zum
     
     <item>
       <title>Durchschnittliche Neuwagenrabatte je nach Automarke</title>
-      <link>/post/durchschnittliche-neuwagenrabatte-automarken/</link>
+      <link>https://www.carcharts.ch/post/durchschnittliche-neuwagenrabatte-automarken/</link>
       <pubDate>Wed, 24 May 2017 18:08:26 +0200</pubDate>
       
-      <guid>/post/durchschnittliche-neuwagenrabatte-automarken/</guid>
+      <guid>https://www.carcharts.ch/post/durchschnittliche-neuwagenrabatte-automarken/</guid>
       <description>Bei der Entscheidung, ob man ein Fahrzeug neu kauft oder zu einem Jahreswagen oder jungen Gebraucht greift, wird oftmals auf den hohen Wertverlust im ersten Jahr oder den Verlust, sobald man das Fahrzeug vom Händler abholt hingewiesen. Hierbei werden Werten um die 25 Prozent genannt.
 Trotz eines vermeintlich höheren Wertverlusts im ersten Jahr, greifen viele Käufer gerne zu einem Neuwagen. Dies hat einerseits den großen Vorteil, dass das Fahrzeug nach den eigenen Vorstellungen konfiguriert werden kann.</description>
     </item>
     
     <item>
       <title>Die Top Ten der wertstabilsten Cabriolets in der Schweiz</title>
-      <link>/post/cabriolets-mit-geringem-wertverlust/</link>
+      <link>https://www.carcharts.ch/post/cabriolets-mit-geringem-wertverlust/</link>
       <pubDate>Wed, 24 May 2017 18:07:19 +0200</pubDate>
       
-      <guid>/post/cabriolets-mit-geringem-wertverlust/</guid>
+      <guid>https://www.carcharts.ch/post/cabriolets-mit-geringem-wertverlust/</guid>
       <description>Cabriolets sind auf dem Gebrauchtwagenmarkt sehr beliebt. Dies liegt unter anderem an der geringen Anzahl der angebotenen Fahrzeuge, da Cabriolets im klassischen Firmenleasing kaum eine Rolle spielen. Zudem werden Cabriolets generell schonend behandelt und meist auch relativ wenig gefahren. All diese Faktoren führen zu recht hohen Preisen auf dem Gebrauchtwagenmarkt und damit einem relativ niedrigen Wertverlust, mit dem beim Autokauf gerechnet werden muss.
 Je nach Budget kann man sich eher am effektiven Wertverlust in Schweizer Franken pro Jahr (siehe Chart 1) oder am relativen Wertverlust in Prozent (siehe Chart 2) orientieren.</description>
     </item>
     
     <item>
       <title>SUVs mit niedrigem Wertverlust</title>
-      <link>/post/suvs-mit-geringem-wertverlust/</link>
+      <link>https://www.carcharts.ch/post/suvs-mit-geringem-wertverlust/</link>
       <pubDate>Wed, 24 May 2017 18:06:56 +0200</pubDate>
       
-      <guid>/post/suvs-mit-geringem-wertverlust/</guid>
+      <guid>https://www.carcharts.ch/post/suvs-mit-geringem-wertverlust/</guid>
       <description>SUVs erleben seit einigen Jahren einen Boom. Diese spiegelt sind in hohen Verkaufszahlen wieder. Zudem sind SUVs generell beliebt bei Gebrauchtwagenkäufern. Das Gebrauchtwagenangebot kann oft nicht mit dem Bedarf mithalten. Dies liegt unter anderem darin begründet, dass SUVs nur relativ selten als Firmenfahrzeuge erlaubt sind und daher kein großes Angebot an Leasingrückläufern im Markt vorhanden ist.
 Achtet man bei der Wahl eines neuen oder jungen Gebrauchten SUVs auf einen prozentual niedrigen Wertverlust und kombiniert dies mit einem Fahrzeug mit relativ niedrigem Neupreis, fährt man besonders günstig.</description>
     </item>
     
     <item>
       <title>Hoher Wertverlust bei Luxus-SUVs</title>
-      <link>/post/wertverlust-luxus-suvs/</link>
+      <link>https://www.carcharts.ch/post/wertverlust-luxus-suvs/</link>
       <pubDate>Wed, 24 May 2017 18:06:20 +0200</pubDate>
       
-      <guid>/post/wertverlust-luxus-suvs/</guid>
+      <guid>https://www.carcharts.ch/post/wertverlust-luxus-suvs/</guid>
       <description>SUVs haben bekanntlich einen relativ hohen Wiederverkaufswert und somit einen relativ niedrigen prozentualen jährlichen Wertverlust. Dies schützt den Käufer von Luxus SUVs jedoch nicht vor hohen effektiven Verlusten, die in den hohen Preisen dieser Fahrzeuge begründet liegen.
 Spitzenreiter bei dem Wertverlust ist die G-Klasse von Mercedes mit durchschnittlich knapp CHF 30.000 pro Jahr.
 Chart 1: Wertverlust effektiv Luxus SUVs </description>
@@ -85,10 +85,10 @@ Chart 1: Wertverlust effektiv Luxus SUVs </description>
     
     <item>
       <title>Vergleich Auto Restwerte je nach Farbe</title>
-      <link>/post/auto-restwert-nach-farbe/</link>
+      <link>https://www.carcharts.ch/post/auto-restwert-nach-farbe/</link>
       <pubDate>Wed, 24 May 2017 18:05:33 +0200</pubDate>
       
-      <guid>/post/auto-restwert-nach-farbe/</guid>
+      <guid>https://www.carcharts.ch/post/auto-restwert-nach-farbe/</guid>
       <description>Die gängige Meinung, dass schwarz, silber und weiß die Autofarben sind, welche zu den besten Wiederverkaufswerten führen, kann auf Basis der Gebrauchtwagenpreise von drei Jahre alten Autos, nicht bestätigt werden. Nach unserer Auswertung des aktuellen Gebrauchtwagenmarktes in der Schweiz sind die beliebtesten Farben orange, blau und gelb.</description>
     </item>
     
